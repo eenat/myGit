@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/git-learn.iml" filepath="$PROJECT_DIR$/.idea/modules/git-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/git-learn_main.iml" filepath="$PROJECT_DIR$/.idea/modules/git-learn_main.iml" group="git-learn" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/git-learn_test.iml" filepath="$PROJECT_DIR$/.idea/modules/git-learn_test.iml" group="git-learn" />
+    </modules>
+  </component>
+</project>
